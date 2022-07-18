@@ -1,0 +1,11 @@
+D:\source\repos\Age\Age\bin\Debug\Age.exe.config
+D:\source\repos\Age\Age\bin\Debug\Age.exe
+D:\source\repos\Age\Age\bin\Debug\Age.pdb
+D:\source\repos\Age\Age\obj\Debug\Age.csproj.AssemblyReference.cache
+D:\source\repos\Age\Age\obj\Debug\Age.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Age\Age\obj\Debug\Age.Form1.resources
+D:\source\repos\Age\Age\obj\Debug\Age.Properties.Resources.resources
+D:\source\repos\Age\Age\obj\Debug\Age.csproj.GenerateResource.cache
+D:\source\repos\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+D:\source\repos\Age\Age\obj\Debug\Age.exe
+D:\source\repos\Age\Age\obj\Debug\Age.pdb
